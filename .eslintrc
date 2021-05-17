@@ -10,10 +10,9 @@
   "env": {
     "browser": true,
     "node": true,
-    "es6": true,
-    "jest/globals": true
+    "es6": true
   },
-  "plugins": ["prettier", "react", "redux-saga", "react-hooks", "jest"],
+  "plugins": ["prettier", "react", "redux-saga", "react-hooks"],
   "parserOptions": {
     "ecmaVersion": 6,
     "sourceType": "module",
