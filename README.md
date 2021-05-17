@@ -7,16 +7,6 @@
 <br />
 
 <div align="center">
-  <!-- BUILD STATUS -->
-  <a href="https://travis-ci.com/react-next-boilerplate/react-next-boilerplate/builds">
-    <img src="https://img.shields.io/github/v/tag/react-next-boilerplate/react-next-boilerplate?color=000000&label=version&logo=version&style=flat-square" alt="Build Status" />
-  </a>
-
-  <!-- TEST COVERAGE -->
-  <a href='https://coveralls.io/github/react-next-boilerplate/react-next-boilerplate?branch=master'>
-    <img src='https://img.shields.io/coveralls/github/react-next-boilerplate/react-next-boilerplate/master?style=flat-square' alt='Coverage Status' />
-  </a>
-
   <!-- QUALITY -->
   <a href="https://app.codacy.com/manual/react-next-boilerplate/react-next-boilerplate/dashboard?bid=14562912">
     <img src="https://img.shields.io/codacy/grade/ee2b85244d434adaa5aa04470fcdde48?style=flat-square" alt="Quality" />
