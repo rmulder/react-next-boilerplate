@@ -13,11 +13,6 @@
     "prettier": "prettier --config .prettierrc \"./**/*.+(js|json|jsx)\" --write",
     "clean:example": "rnb --c"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
-  },
   "lint-staged": {
     "*.js": [
       "eslint --fix"
@@ -66,7 +61,6 @@
     "eslint-plugin-react": "^7.13.0",
     "eslint-plugin-react-hooks": "^1.6.0",
     "eslint-plugin-redux-saga": "^1.0.0",
-    "husky": "^2.4.1",
     "lint-staged": "^10.0.3",
     "prettier": "^1.18.2",
     "react-test-renderer": "^17.0.1",
